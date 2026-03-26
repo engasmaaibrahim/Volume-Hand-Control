@@ -74,7 +74,7 @@ python main.py
 ---
 
 
-## 👩‍💻 Author
+## Author
 
 **Asmaa Ibrahim**
 AI & Machine Learning Engineer
