@@ -73,8 +73,8 @@ python main.py
 
 ## How it Controls Volume
 
-* Short distance → Low volume 🔉
-* Long distance → High volume 🔊
+* Short distance → Low volume
+* Long distance → High volume
 
 ---
 
