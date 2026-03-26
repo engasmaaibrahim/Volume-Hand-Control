@@ -11,10 +11,15 @@ It uses computer vision techniques to detect hand landmarks and calculate the di
 ## How it Works
 
 1️- Capture video from webcam
+
 2️- Detect hand using **MediaPipe**
+
 3️- Extract hand landmarks
+
 4️- Measure distance between thumb and index finger
+
 5️- Map distance to system volume range
+
 6️- Adjust volume dynamically
 
 ---
