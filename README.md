@@ -21,7 +21,7 @@ It uses computer vision techniques to detect hand landmarks and calculate the di
 
 ## Technologies Used
 
-* Python 🐍
+* Python
 * OpenCV
 * MediaPipe
 * Pycaw (for volume control)
